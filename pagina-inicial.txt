@@ -3,6 +3,10 @@ Fluxo de Trabalho local
 trabalhar no código
 git add .
 git commit -m "Descrição do commit"
+git push origin main
 
 
-git log - mostrar os commit existentes no repositório
+git log - mostrar os commit existentes no repositório remoto
+
+
+
